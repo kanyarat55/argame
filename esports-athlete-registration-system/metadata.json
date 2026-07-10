@@ -1,0 +1,6 @@
+{
+  "name": "Esports Athlete Registration System",
+  "description": "Esports athlete registration system with local login, registration, and an interactive webcam AR star-catching game, including a PHP/MySQL code export center.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
